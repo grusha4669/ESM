@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ESM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reconnect">Reconnect</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Сводка по инцидентам ГИТ</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="spinner_a_array">
+        <item>Все ЗУЭС</item>
+    </string-array>
+
+    <string-array name="spinner_b_array">
+        <item>Все РУЭС</item>
+    </string-array>
+
+    <string-array name="spinner_e_array">
+        <item>Открытые</item>
+        <item>Закрытые</item>
+        <item>Обработанные</item>
+        <item>На контроле</item>
+    </string-array>
+
+</resources>
